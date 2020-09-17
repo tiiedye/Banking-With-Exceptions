@@ -59,7 +59,7 @@
     <ClInclude Include="Trust_Account.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="InsufficentFundsException.h">
+    <ClInclude Include="InsufficientFundsException.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
